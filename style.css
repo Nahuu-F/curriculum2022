@@ -9,7 +9,7 @@
 	padding: 0px;
 	font-family: 'bitter','piazzolla', 'serif';
 	text-decoration: none;
-	list-style: none;
+	list-style: none; /*se puede aplicar una imagen usando el*/
 }
 body {
 	background-color: #111111;
